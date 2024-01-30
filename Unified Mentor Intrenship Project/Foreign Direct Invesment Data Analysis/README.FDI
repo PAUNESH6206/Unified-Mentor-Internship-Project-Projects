@@ -1,0 +1,29 @@
+# Foreign Direct Investment Data Analytics Project
+
+## Overview
+This repository contains the code and data for a foreign direct investment (FDI) data analytics project. The project focuses on analyzing sector-wise FDI trends from the years 2000 to 2017.
+
+## Table of Contents
+- [Introduction]
+- [Data]
+- [Project Structure]
+- [Usage]
+- [Dependencies]
+- [Contributing]
+- [License]
+
+## Introduction
+Provide a brief overview of the project, its goals, and the significance of analyzing FDI data in the specified time frame.
+
+## Data
+Describe the dataset used in the project, including the source, format, and any preprocessing steps. If the dataset is large, consider providing a link to an external source or a brief summary of the key attributes.
+
+## Project Structure
+Outline the structure of the project directory. Describe the purpose of each major folder or file. For example:
+
+data # Contains the dataset
+scripts # Contains the main analysis scripts
+notebooks # Jupyter notebooks for exploratory analysis
+results # Output and results from the analysis
+README.md # Project overview and instructions
+
